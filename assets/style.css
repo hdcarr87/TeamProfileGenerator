@@ -1,0 +1,16 @@
+body{
+    background-color: red;
+}
+
+.cardContainer {
+    float: left;
+    margin-top: 20px;
+    align-content: center;
+    padding: 0px 10px 0px 10px;
+}
+
+.card {
+    width: 350px;
+    margin:20px;
+    float: left;
+}
